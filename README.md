@@ -3,7 +3,7 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
-5. [Licence](#licence)
+5. [License](#license)
 6. [Contact](#licence)
 ### General Info
 ***
@@ -32,9 +32,8 @@ Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
 > It should go over several rows?
 > This is how you do it.
-## Licence
-***
+## License
 Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 Giorgia Amato - amatogiorgia1@gmail.com
-Project Link: 
+Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git
