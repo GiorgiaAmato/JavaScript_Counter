@@ -10,6 +10,7 @@
 This app is a counter. It is used to increase or decrease the 0 value by clicking on the plus and minus buttons.
 It is possible to reset the counter with the appropriate icon.
 It is also possible to set an increment value other than 1.
+Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git
 
 ### Screenshot
 ![Image text](img/Countergif.gif)
@@ -23,13 +24,11 @@ A list of technologies used within the project:
 ## Installation
 A little intro about the installation.
 ```
-$ git clone https://example.com
+$ git clone https://github.com/GiorgiaAmato/JavaScript_Counter.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/GiorgiaAmato/JavaScript_Counter/blob/main/LICENSE) for more information.
 
