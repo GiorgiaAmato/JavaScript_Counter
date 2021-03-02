@@ -1,8 +1,7 @@
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Built With](#Built With)
+2. [Built With](#built-with)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
 5. [License](#license)
 6. [Contact](#contact)
 
@@ -13,7 +12,7 @@ It is possible to reset the counter with the appropriate icon.
 It is also possible to set an increment value other than 1.
 
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](img/Gif.mp4)
 
 ## Built With
 A list of technologies used within the project:
