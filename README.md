@@ -9,7 +9,7 @@
 ### General Info
 This app is a counter. It is used to increase or decrease the 0 value by clicking on the plus and minus buttons.
 It is possible to reset the counter with the appropriate icon.
-It is also possible to set an increment value other than 1.
+It is also possible to set an increment value other than 1.<br>
 Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git
 
 ### Screenshot
