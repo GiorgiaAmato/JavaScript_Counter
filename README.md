@@ -1,26 +1,27 @@
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Languages](#languages)
+2. [Built With](#Built With)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [License](#license)
 6. [Contact](#contact)
 
-***
+
 ### General Info
 This app is a counter. It is used to increase or decrease the 0 value by clicking on the plus and minus buttons.
 It is possible to reset the counter with the appropriate icon.
 It is also possible to set an increment value other than 1.
+
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Languages
-***
+
+## Built With
 A list of technologies used within the project:
-* [HTML](https://example.com): Version 12.3 
-* [CSS](https://example.com): Version 2.34
-* [JAVASCRIPT](https://example.com): Version 1234
+* [HTML](https://developer.mozilla.org/it/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/it/docs/Web/CSS)
+* [JAVASCRIPT](https://developer.mozilla.org/it/docs/Web/JavaScript)
+
 ## Installation
-***
 A little intro about the installation.
 ```
 $ git clone https://example.com
@@ -32,6 +33,7 @@ Side information: To use the application in a special environment use ```lorem i
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
+
 ## Contact
-Giorgia Amato - amatogiorgia1@gmail.com
+Giorgia Amato - amatogiorgia1@gmail.com <br>
 Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git
