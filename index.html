@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Recursive:wght@300;400&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body onload="load()">
+    <div class="container">
+        <div class="title">
+            <h1>Counter</h1>
+            <button id="reset" class='tooltip'>
+                <img src="img/reset-icon.svg" class="reset" alt="reset">
+                <span class="tooltiptext">Click here to reset the counter</span>
+            </button>
+        </div>
+
+        <h2>Set Count Increment:</h2>
+        <input class="input" id="text-input" type="number" value="1">
+        <label id="label-reset" for="text-input"></label>
+
+        <div id="counter-container">
+            <button class="button tooltip" id="decrement">
+                <img src="img/minus-icon.svg" class="minus"alt="minus icon">
+                <span class="tooltiptext">Click here to decrease the counter</span>
+            </button>
+
+            <div id="total">0</div>
+            
+            <button class="button tooltip" id="increment">
+                <img src="img/plus-icon.svg" class="plus"alt="plus icon">
+                <span class="tooltiptext">Click here to increase the counter</span>
+            </button>
+        </div>
+
+    </div>
+
+    <script src="js/index.js"></script>
+
+</body>
+
+</html>
