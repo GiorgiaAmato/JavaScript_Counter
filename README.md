@@ -1,3 +1,5 @@
+# Javascript Counter
+
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Built With](#built-with)
@@ -17,12 +19,12 @@ Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git
 
 ## Built With
 A list of technologies used within the project:
-* [HTML](https://developer.mozilla.org/it/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/it/docs/Web/CSS)
+* [HTML5](https://developer.mozilla.org/it/docs/Web/HTML)
+* [CSS3](https://developer.mozilla.org/it/docs/Web/CSS)
 * [JAVASCRIPT](https://developer.mozilla.org/it/docs/Web/JavaScript)
 
 ## Installation
-A little intro about the installation.
+To run this project, install it locally using npm:
 ```
 $ git clone https://github.com/GiorgiaAmato/JavaScript_Counter.git
 $ cd ../path/to/the/file
@@ -34,4 +36,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/GiorgiaAmato
 
 ## Contact
 Giorgia Amato - amatogiorgia1@gmail.com <br>
-Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git
+Project Link: https://github.com/GiorgiaAmato/JavaScript_Counter.git<br>
+***
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGiorgia_Amato_)
