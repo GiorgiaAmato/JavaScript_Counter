@@ -3,9 +3,8 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Built With](#built-with)
-3. [Installation](#installation)
-5. [License](#license)
-6. [Contact](#contact)
+3. [License](#license)
+4. [Contact](#contact)
 
 
 ### General Info
@@ -23,14 +22,6 @@ A list of technologies used within the project:
 * [CSS3](https://developer.mozilla.org/it/docs/Web/CSS)
 * [JAVASCRIPT](https://developer.mozilla.org/it/docs/Web/JavaScript)
 
-## Installation
-To run this project, install it locally using npm:
-```
-$ git clone https://github.com/GiorgiaAmato/JavaScript_Counter.git
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/GiorgiaAmato/JavaScript_Counter/blob/main/LICENSE) for more information.
 
