@@ -34,7 +34,7 @@ reset.addEventListener('click', function () {
     showLabel();
 });
 
-//function onload Firefox
+//function reset onload Firefox
 function load() {
     integer = 0;
     int.innerHTML = integer;
